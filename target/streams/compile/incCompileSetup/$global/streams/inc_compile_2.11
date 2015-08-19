@@ -1,0 +1,465 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+4 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/Cardinality.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/CardinalityMergeException$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/CardinalityMergeException.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$$anonfun$1.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$$anonfun$merge$1.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLogMergeException$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLogMergeException.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$ArrayRegister$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister$RegisterIterator.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$REGISTER_SET_TYPE$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$class.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/UnknownRegisterException$.class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/UnknownRegisterException.class
+binary dependencies:
+12 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> /Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> /Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> rs.analytics.datastructures.cardinality.Cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> rs.analytics.datastructures.cardinality.CardinalityMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> rs.analytics.datastructures.cardinality.CardinalityMergeException$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLog
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLog$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLog$$anonfun$1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLog$$anonfun$merge$1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLogMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> rs.analytics.datastructures.probabilistic.hll.HyperLogLogMergeException$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$ArrayRegister$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$DenseArrayRegister
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$DenseArrayRegister$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$DenseArrayRegister$RegisterIterator
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$REGISTER_SET_TYPE$
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs.analytics.datastructures.probabilistic.hll.Register$class
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> rs.analytics.datastructures.probabilistic.hll.UnknownRegisterException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> rs.analytics.datastructures.probabilistic.hll.UnknownRegisterException$
+used names:
+289 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> <repeated>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> AnyRef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> Boolean
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> Cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> Int
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> Long
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> Predef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> String
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> T
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> _root_
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> <init>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> CardinalityMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> Exception
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> Predef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> String
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> message
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> package
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> !=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> &&
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> *
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> +
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> -
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> /
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> <
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> <init>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> <repeated>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> >
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> A1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> ALPHA_MM
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> AnyRef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Array
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> B1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Boolean
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Byte
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> ByteBuffer
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> DEFAULT_LOG2M
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> DEFAULT_REGISTER_WIDTH
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> DENSE_ARRAY
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Double
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Either
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Function1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> HyperLogLog
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> HyperLogLogMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Int
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> LARGE_RANGE_ESTIMATE_LIMIT
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Left
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Long
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Math
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> MurmurHash3
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Option
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Predef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> REGISTER_SET_TYPE
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Register
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Right
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> SMALL_RANGE_ESTIMATE_LIMIT
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Seq
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> String
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> T
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> V
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> Value
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> _log2mOp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> _register
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> _registerSetType
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> _registerWidthOp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> _root_
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> add
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> apply
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> asInstanceOf
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> buf
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> bytesHash
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> canBuildFrom
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> collect
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> collection
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> count
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> estimate
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> estimator
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> estimators
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> exp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> foreach
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> get
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> getAlphaMM
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> hashing
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> hll
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> hllEst
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> i
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> int2Bytes
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> isInstanceOf
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> java
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> lang
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> largeRangeCorrectionEst
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> largeRangeCorrectionLimit
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> length
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> linearCounting
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> log
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> log2m
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> long2Bytes
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> m
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> maxRegisterValue
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> maxRegisterValueBitMask
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> merge
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> merged
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> nio
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> numZeros
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> other
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> package
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> pow
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> probabilistic
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> putInt
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> putLong
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> pwBits
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> regWidth
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> registerSum
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> round
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> smallRangeCorrectionLimit
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> sqrt
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> stdError
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> stringHash
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> sumInversePowerOf2
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> toDouble
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> toLong
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> totalBits
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> twoToL
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> unchecked
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> util
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> value
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> width
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> wrap
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> x
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> <init>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> AnyRef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> CardinalityMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> HyperLogLogMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> Predef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> String
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> Throwable
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> cardinality
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> cause
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> hll
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> initCause
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> message
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> msg
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> package
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> probabilistic
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> !=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> &
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> &&
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> *
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> +
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> -
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> /
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> <
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> <<
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> <init>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> ==
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> >
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> >>>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> AnyRef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Array
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> ArrayRegister
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> BITS_PER_WORD
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> BITS_PER_WORD_MASK
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Boolean
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> DEFAULT_LOG2M
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> DEFAULT_REGISTER_WIDTH
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> DENSE_ARRAY
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> DenseArrayRegister
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Double
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Enumeration
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> HyperLogLogMergeException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> IllegalArgumentException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Int
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Iterator
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> LOG2_BITS_PER_WORD
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Long
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> MAXIMUM_LOG2M
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> MAXIMUM_REGWIDTH
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> MINIMUM_LOG2M
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> MINIMUM_REGWIDTH
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Option
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> REGISTER_SET_TYPE
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Register
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> RegisterIterator
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> StringContext
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Tuple4
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Unit
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> UnknownRegisterException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> Value
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _2
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _3
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _4
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _log2m
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _log2mOp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _mArray
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _mBitMask
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _maxRegValBitMask
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _pwMaxBitMask
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _registerWidth
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> _registsterWidthOp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> apply
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> bitIdx
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> c
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> calculateArraySize
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> count
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> get
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> hashedValue
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> hll
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> i
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> j
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> java
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> lang
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> log2m
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> log2mOp
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> m
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> maxRegisterValueBitMask
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> numZeros
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> numZeros_=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> numberOfTrailingZeros
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> package
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> probabilistic
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> regCount
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> regIdx
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> regIdx_=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> regSetType
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> regValue
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> registerSum
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> registerWidth
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> remainder
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> result
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> rs$analytics$datastructures$probabilistic$hll$Register$DenseArrayRegister$$getRegTuple
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> s
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> scala
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> set
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> that
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> toInt
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> toLong
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> tuple
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> unary_~
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> update
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> upsert
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> value
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> w
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> while$1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> while$2
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> while$3
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> width
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> wordIdx1
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> wordIdx2
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> |
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> <init>
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> AnyRef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> Exception
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> Predef
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> String
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> Throwable
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> UnknownRegisterException
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> analytics
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> cause
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> datastructures
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> hll
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> initCause
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> message
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> msg
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> package
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> probabilistic
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> rs
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> scala
+product stamps:
+19 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/Cardinality.class -> lastModified(1439930415000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/CardinalityMergeException$.class -> lastModified(1439930415000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/cardinality/CardinalityMergeException.class -> lastModified(1439930415000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$$anonfun$1.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$$anonfun$merge$1.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog$.class -> lastModified(1439930415000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLog.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLogMergeException$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/HyperLogLogMergeException.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$ArrayRegister$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister$RegisterIterator.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$DenseArrayRegister.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$REGISTER_SET_TYPE$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register$class.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/Register.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/UnknownRegisterException$.class -> lastModified(1439930416000)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/target/scala-2.11/classes/rs/analytics/datastructures/probabilistic/hll/UnknownRegisterException.class -> lastModified(1439930416000)
+source stamps:
+6 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> hash(80228bde37281f75b10099e9da3bed5805fc32b9)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> hash(0795af1331858abe63e498964ac6108ab529f486)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> hash(e4ba3eb6a29faefcc2d2aa1b624eff28d8f7b530)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> hash(930ea03814777c7a4987c00a56ca06ae9a985da2)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> hash(e81bc54655e50196298e95c4c58d2b842432e113)
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> hash(4cee478253af9c6ffb3fb8a94fc8b365e499e1db)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ralsmith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+6 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBDtA5SAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAFO2vB0AAZub3RpZnlzcQB+AAxoJcMZdAAEd2FpdHNxAH4ADPK+/ap0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEO8/mHQABmVxdWFsc3NxAH4ADBUOMjh0AAxhc0luc3RhbmNlT2ZzcQB+AAw4pVNrdAALY2FyZGluYWxpdHlzcQB+AAxh2+JEdAAMc3luY2hyb25pemVkc3EAfgAM/UniunQADSRpc0luc3RhbmNlT2ZzcQB+AAwdU6gndAAJbm90aWZ5QWxsc3EAfgAMi38cx3QADGlzSW5zdGFuY2VPZnNxAH4ADBuxT4l0AAVtZXJnZXNxAH4ADNwQMSt0AAI9PXNxAH4ADO65bMt0AAVjbG9uZXNxAH4ADNgYVyR0AAh0b1N0cmluZ3NxAH4ADF6Hmrd0AAtDYXJkaW5hbGl0eXNxAH4ADNCRd490AAVvZmZlcnNxAH4ADAfxr9J0AAIhPXNxAH4ADK62tnV0AAhnZXRDbGFzc3NxAH4ADIXhGVB0AAJuZXNxAH4ADEFxApR0AAJlcXNxAH4ADLNmXrx0AAIjI3NxAH4ADDQUu0x0AAhmaW5hbGl6ZXNxAH4ADIrnctJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ADNycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXMuY2FyZGluYWxpdHkuQ2FyZGluYWxpdHl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF0AcHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGZzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3NxAH4AdnQAA0FueXNxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJ0AAVzY2FsYXEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAncnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzLmNhcmRpbmFsaXR5c3EAfgCTdAACcnNzcQB+AJN0ABtycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXNzcQB+AJN0AAxycy5hbmFseXRpY3NzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU9Cil4vdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVy9Vc2Vycy9yYWxzbWl0aC9Ecm9wYm94L0NvZGUvb3JjbC9vbWMvc2NyYXRjaC9zY2FsYS1hbmFseXRpY3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIAii943KB91sQCZ6do77VgF/DK5
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA/+YnkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI2XNnB0AAZub3RpZnlzcQB+AAzq0nshdAAPcHJpbnRTdGFja1RyYWNlc3EAfgAMtWPQqnQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAxB+JLLdAAEd2FpdHNxAH4ADCGfZxJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMTueYjHQAGUNhcmRpbmFsaXR5TWVyZ2VFeGNlcHRpb25zcQB+AAz69OfedAAGZXF1YWxzc3EAfgAMkOz9anQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAyIhCqgdAAJaW5pdENhdXNlc3EAfgAMULeQNHQADGFzSW5zdGFuY2VPZnNxAH4ADM8wJ3t0AAxzeW5jaHJvbml6ZWRzcQB+AAwdGTh2dAANJGlzSW5zdGFuY2VPZnNxAH4ADNT24ed0AAhnZXRDYXVzZXNxAH4ADFClesV0AAlub3RpZnlBbGxzcQB+AAyDbJ9AdAAMaXNJbnN0YW5jZU9mc3EAfgAMTIQjL3QADWdldFN0YWNrVHJhY2VzcQB+AAy+ycNMdAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAw9J0SEdAAGPGluaXQ+c3EAfgAM/jWSrHQACmdldE1lc3NhZ2VzcQB+AAzs+1xJdAANc2V0U3RhY2tUcmFjZXNxAH4ADJGc35Z0AA1nZXRTdXBwcmVzc2Vkc3EAfgAMJ6IXQHQAAj09c3EAfgAMapmJB3QAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4ADBJ7TJ10AAVjbG9uZXNxAH4ADHl+ANR0AA1hZGRTdXBwcmVzc2Vkc3EAfgAMp9hFjXQACHRvU3RyaW5nc3EAfgAMU436rnQAAiE9c3EAfgAMDVvvCnQACGdldENsYXNzc3EAfgAMbmC31XQAAm5lc3EAfgAMnHTk2nQAAmVxc3EAfgAMOJJ2O3QAAiMjc3EAfgAM0tI8o3QACGZpbmFsaXplc3EAfgAMh6M5QXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAQXJzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlcy5jYXJkaW5hbGl0eS5DYXJkaW5hbGl0eU1lcmdlRXhjZXB0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgByeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxAHBzcQB+AHZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB6c3EAfgBxAHBzcQB+AHZ1cQB+AFQAAAAAc3EAfgBxAHBzcQB+AHZ1cQB+AFQAAAAAc3EAfgBxAHBzcQB+AHZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHl0AAlFeGNlcHRpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AIp0AAlUaHJvd2FibGVxAH4AkHNxAH4AinQADFNlcmlhbGl6YWJsZXNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIp0AAZPYmplY3RxAH4AkHNxAH4AinQAA0FueXNxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZ0AAVzY2FsYXEAfgCddXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAncnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzLmNhcmRpbmFsaXR5c3EAfgCzdAACcnNzcQB+ALN0ABtycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXNzcQB+ALN0AAxycy5hbmFseXRpY3NzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU9Cil4vdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVy9Vc2Vycy9yYWxzbWl0aC9Ecm9wYm94L0NvZGUvb3JjbC9vbWMvc2NyYXRjaC9zY2FsYS1hbmFseXRpY3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAeVrxMxhYq+Y+SYlkrGEIq1KfSG
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAHmiosAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsUkK3XQACmxvbmcyQnl0ZXNzcQB+AAubbLL6dAAJaW50MkJ5dGVzdXEAfgAJAAAAJ3NxAH4AC1y7rHZ0AAZub3RpZnlzcQB+AAuS9LNudAAXbGFyZ2VSYW5nZUNvcnJlY3Rpb25Fc3RzcQB+AAstHH5UdAAEd2FpdHNxAH4AC/N6pKl0AA0kYXNJbnN0YW5jZU9mc3EAfgALe0kSCnQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAvjrs3MdAAZbGFyZ2VSYW5nZUNvcnJlY3Rpb25MaW1pdHNxAH4ACzuZCup0AAZlcXVhbHNzcQB+AAu1k/cSdAAMYXNJbnN0YW5jZU9mc3EAfgALFOuWUnQAC2NhcmRpbmFsaXR5c3EAfgALa7p+pHQADHN5bmNocm9uaXplZHNxAH4ACwrGg2x0AA0kaXNJbnN0YW5jZU9mc3EAfgALLCQRCnQAGXNtYWxsUmFuZ2VDb3JyZWN0aW9uTGltaXRzcQB+AAvJGVwNdAAIc3RkRXJyb3JzcQB+AAvX6zvrdAAGdHdvVG9Mc3EAfgALkRnXNnQACW5vdGlmeUFsbHNxAH4AC6ihq8F0ABpMQVJHRV9SQU5HRV9FU1RJTUFURV9MSU1JVHNxAH4AC8EdYJ10AAxpc0luc3RhbmNlT2ZzcQB+AAvsk1h4dAAQPGluaXQ+JGRlZmF1bHQkM3NxAH4AC3wo2j10AAY8aW5pdD5zcQB+AAuxTZi4dAAFbWVyZ2VzcQB+AAtBLaYddAAJX3JlZ2lzdGVyc3EAfgALC9Q1uXQAAj09c3EAfgALNKuTZnQABWNsb25lc3EAfgAL0VPICXQACHRvU3RyaW5nc3EAfgAL5Bq/AnQADmxpbmVhckNvdW50aW5nc3EAfgALApiudnQABW9mZmVyc3EAfgAL2diKmnQAAiE9c3EAfgALJE0VmXQACEFMUEhBX01Nc3EAfgALm0vfMnQAC0h5cGVyTG9nTG9nc3EAfgALgKfBw3QACGdldENsYXNzc3EAfgALlKRuE3QACmdldEFscGhhTU1zcQB+AAtWTRyldAACbmVzcQB+AAs6rbyWdAAaU01BTExfUkFOR0VfRVNUSU1BVEVfTElNSVRzcQB+AAtqd5ubdAADcnNkc3EAfgAL9vPynXQAEDxpbml0PiRkZWZhdWx0JDJzcQB+AAvEzBSCdAACZXFzcQB+AAvTLdnpdAACIyNzcQB+AAtLQ50KdAAIZmluYWxpemVzcQB+AAvwcaEPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAtKGNsYXNzT2ZbamF2YS5sYW5nLklsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbl0pc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXhxAH4AgXhxAH4Ag3QABnRocm93c3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AknVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCGdAAYSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXQABGphdmFzcQB+AJF0AARsYW5ncQB+AJZzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ADlycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXMucHJvYmFiaWxpc3RpYy5obGwuSHlwZXJMb2dMb2d1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AK54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AINzcQB+AK0AcHNxAH4AsnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIRzcQB+AK0AcHNxAH4AsnVxAH4AZAAAAABzcQB+AK0AcHNxAH4AsnVxAH4AZAAAAABzcQB+AK0AcHNxAH4AsnVxAH4AlwAAAANzcQB+AIZ0AAtDYXJkaW5hbGl0eXNxAH4AiXNxAH4AjHVxAH4AjwAAAAVzcQB+AJF0AAJyc3NxAH4AkXQACWFuYWx5dGljc3NxAH4AkXQADmRhdGFzdHJ1Y3R1cmVzc3EAfgCRdAALY2FyZGluYWxpdHlxAH4AlnNxAH4AhnQABk9iamVjdHNxAH4AiXNxAH4AjHVxAH4AjwAAAANzcQB+AJFxAH4An3NxAH4AkXEAfgChcQB+AJZzcQB+AIZ0AANBbnlzcQB+AIlzcQB+AIx1cQB+AI8AAAACc3EAfgCRcQB+AJRxAH4AlnNxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AogB0ADlycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXMucHJvYmFiaWxpc3RpYy5obGwuSHlwZXJMb2dMb2d1cQB+AKUAAAAAfnEAfgCndAAGTW9kdWxldXEAfgCrAAAAAHNxAH4ArQBwc3EAfgCycQB+ALVzcQB+AK0AcHNxAH4AsnNxAH4AuHNxAH4ArQBwc3EAfgCydXEAfgBkAAAAAHNxAH4ArQBwc3EAfgCydXEAfgBkAAAAAHNxAH4ArQBwc3EAfgCydXEAfgCXAAAAAnNxAH4AhnEAfgDRc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXEAfgCfc3EAfgCRcQB+AKFxAH4AlnNxAH4AhnEAfgDYc3EAfgCJc3EAfgCMdXEAfgCPAAAAAnNxAH4AkXEAfgCUcQB+AJZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAJyc3NxAH4BAHQAKXJzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlcy5wcm9iYWJpbGlzdGljc3EAfgEAdAAbcnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzc3EAfgEAdAAMcnMuYW5hbHl0aWNzc3EAfgEAdAAtcnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzLnByb2JhYmlsaXN0aWMuaGxsc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPQopeL3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFcvVXNlcnMvcmFsc21pdGgvRHJvcGJveC9Db2RlL29yY2wvb21jL3NjcmF0Y2gvc2NhbGEtYW5hbHl0aWNzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTkuj62op+u/MLSqhtiTv8o2Pe1MA==
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRAdu1AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGqrOQl0AAZub3RpZnlzcQB+AAxteDkodAAPcHJpbnRTdGFja1RyYWNlc3EAfgAMqslXJnQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAz/RRz1dAAEd2FpdHNxAH4ADGzDcQ90AA0kYXNJbnN0YW5jZU9mc3EAfgAMp+Oe6HQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAy+QbNkdAAGZXF1YWxzc3EAfgAMqtA9InQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAz/NnpZdAAJaW5pdENhdXNlc3EAfgAMd4fZXHQADGFzSW5zdGFuY2VPZnNxAH4ADMkcCuR0AAxzeW5jaHJvbml6ZWRzcQB+AAwwOCVUdAANJGlzSW5zdGFuY2VPZnNxAH4ADDo+eaN0AAZjcmVhdGVzcQB+AAwhkPvadAAIZ2V0Q2F1c2VzcQB+AAzC4sSgdAAJbm90aWZ5QWxsc3EAfgAMaRr9unQAC3JlYWRSZXNvbHZlc3EAfgAMvbuJl3QADGlzSW5zdGFuY2VPZnNxAH4ADALfckx0AA1nZXRTdGFja1RyYWNlc3EAfgAM0yxThHQAFGdldFN0YWNrVHJhY2VFbGVtZW50c3EAfgAMq/RXKnQABjxpbml0PnNxAH4ADH0MU3R0AApnZXRNZXNzYWdlc3EAfgAMNtrne3QADXNldFN0YWNrVHJhY2VzcQB+AAzi1LjddAANZ2V0U3VwcHJlc3NlZHNxAH4ADG+E1U10ABlIeXBlckxvZ0xvZ01lcmdlRXhjZXB0aW9uc3EAfgAMxxMDQHQAAj09c3EAfgAM3uyODnQAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4ADKJGOzt0AAVjbG9uZXNxAH4ADDDD3W50AA1hZGRTdXBwcmVzc2Vkc3EAfgAMsPQOvnQACHRvU3RyaW5nc3EAfgAM7x6LG3QAAiE9c3EAfgAMrmwIMHQACGdldENsYXNzc3EAfgAMmn5gXXQAAm5lc3EAfgAMKy42ZnQAAmVxc3EAfgAMHReIU3QAAiMjc3EAfgAMYeLoiHQACGZpbmFsaXplc3EAfgAMNfrbSXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAR3JzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlcy5wcm9iYWJpbGlzdGljLmhsbC5IeXBlckxvZ0xvZ01lcmdlRXhjZXB0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB4eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3AHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgCAc3EAfgB3AHBzcQB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
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAxp7QEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHwcubnQACG9yZGVyaW5nc3EAfgALQ+shNHQADGNhbkJ1aWxkRnJvbXNxAH4AC27X8vp0AA1ta09yZGVyaW5nT3BzdXEAfgAJAAAA+XNxAH4AC5HKs5R0AAxpdGVyYXRvckZyb21zcQB+AAsOi+Y2dAAKdG9JdGVyYWJsZXNxAH4AC6gBXyF0AAp3aXRoRmlsdGVyc3EAfgALk9i8m3QADXRvVHJhdmVyc2FibGVzcQB+AAtmR2GJdAAOX3JlZ2lzdGVyV2lkdGhzcQB+AAtqOO8idAAGbm90aWZ5c3EAfgAL7/H47nQAC3dpdGhQYWRkaW5nc3EAfgAL9Z+My3QABGZpbmRzcQB+AAuGr24zdAAEc3BhbnNxAH4AC0SHncV0AAdmbGF0dGVuc3EAfgALrVyL4XQAC2dldFJlZ1R1cGxlc3EAfgALqeck5nQACHRvQnVmZmVyc3EAfgALVH81+XQABWNvdW50c3EAfgALGalyFHQAEmNhbGN1bGF0ZUFycmF5U2l6ZXNxAH4AC4dUGiF0AAZuZXh0SWRzcQB+AAtcqRE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Lss91r3QAAmVxc3EAfgALvjylp3QABmZpbGxlZHNxAH4AC+V3zDZ0AAdjb21wYXJlc3EAfgAL30TiVnQAA3N1bXNxAH4ACxMoWMF0ABBSZWdpc3Rlckl0ZXJhdG9yc3EAfgALoVgUvHQACFJlZ2lzdGVyc3EAfgAL3n+zJHQAEVJFR0lTVEVSX1NFVF9UWVBFc3EAfgAL8LrGCnQADnRoaXNDb2xsZWN0aW9uc3EAfgALiMQoSHQAAT5zcQB+AAsaT+qXdAACIyNzcQB+AAueljBDdAAIc2NhbkxlZnRzcQB+AAteThQLdAAIZmluYWxpemVzcQB+AAsNHyEgdAAIaGFzaENvZGVzcQB+AAvFzdiidAAJcmFuZ2VJbXBsc3EAfgALsUH7cHQABnppcEFsbHNxAH4AC1XedOd0AAdwcm9kdWN0c3EAfgALxiqeTnQABHZpZXdzcQB+AAvBO+DJdAALREVOU0VfQVJSQVlzcQB+AAt61pbCdAAGdXBzZXJ0c3EAfgALKvRFT3QACV9tQml0TWFza3NxAH4AC54IxoF0AARndGVxc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CD3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwCXQANnJzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlcy5wcm9iYWJpbGlzdGljLmhsbC5SZWdpc3RlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4CKHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4CJwBwc3EAfgIsc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Ag9MAAlpbmhlcml0ZWRxAH4CD0wAB3BhcmVudHNxAH4CD3hxAH4CMHNxAH4CJwBwc3EAfgIsdXEAfgIKAAAAAHNxAH4CJwBwc3EAfgIsdXEAfgIKAAAAAHNxAH4CJwBwc3EAfgIsdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgIvdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgIvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgJMdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgJNc3EAfgJAdAADQW55c3EAfgJEc3EAfgJHdXEAfgJKAAAAAnNxAH4CTHQABXNjYWxhcQB+AlNzcQB+AgxxAH4CGXVxAH4CGgAAAABzcQB+AhwAdAA2cnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzLnByb2JhYmlsaXN0aWMuaGxsLlJlZ2lzdGVydXEAfgIfAAAAAH5xAH4CIXQABk1vZHVsZXVxAH4CJQAAAABzcQB+AicAcHNxAH4CLHEAfgIxc3EAfgInAHBzcQB+AixzcQB+AjRzcQB+AicAcHNxAH4CLHVxAH4CCgAAAABzcQB+AicAcHNxAH4CLHVxAH4CCgAAAABzcQB+AicAcHNxAH4CLHVxAH4CPgAAAAJzcQB+AkBxAH4CQ3NxAH4CRHNxAH4CR3VxAH4CSgAAAANzcQB+AkxxAH4CT3NxAH4CTHEAfgJRcQB+AlNzcQB+AkBxAH4CVXNxAH4CRHNxAH4CR3VxAH4CSgAAAAJzcQB+AkxxAH4CWnEAfgJTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAACcnNzcQB+An50AClycy5hbmFseXRpY3MuZGF0YXN0cnVjdHVyZXMucHJvYmFiaWxpc3RpY3NxAH4CfnQAG3JzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlc3NxAH4CfnQADHJzLmFuYWx5dGljc3NxAH4CfnQALXJzLmFuYWx5dGljcy5kYXRhc3RydWN0dXJlcy5wcm9iYWJpbGlzdGljLmhsbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT0KKXi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABXL1VzZXJzL3JhbHNtaXRoL0Ryb3Bib3gvQ29kZS9vcmNsL29tYy9zY3JhdGNoL3NjYWxhLWFuYWx5dGljcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6BvFRlXlAZYpjpXExY0rhCQy4RM=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDC1gP6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ+Egt10AAZub3RpZnlzcQB+AAx6O2apdAAPcHJpbnRTdGFja1RyYWNlc3EAfgAM44w6ZnQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAwhQxysdAAEd2FpdHNxAH4ADN7Ulp10AA0kYXNJbnN0YW5jZU9mc3EAfgAMB9nr/XQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAzePpnedAAGZXF1YWxzc3EAfgAMqr8tjHQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAydxBHcdAAJaW5pdENhdXNlc3EAfgAM53Rfe3QADGFzSW5zdGFuY2VPZnNxAH4ADDG0s+x0AAxzeW5jaHJvbml6ZWRzcQB+AAyEAOP7dAANJGlzSW5zdGFuY2VPZnNxAH4ADPjcNil0AAZjcmVhdGVzcQB+AAyUGOEPdAAIZ2V0Q2F1c2VzcQB+AAwlQ5QBdAAYVW5rbm93blJlZ2lzdGVyRXhjZXB0aW9uc3EAfgAMFDyM3nQACW5vdGlmeUFsbHNxAH4ADJYsKgV0AAtyZWFkUmVzb2x2ZXNxAH4ADOVD+AN0AAxpc0luc3RhbmNlT2ZzcQB+AAyHKpE4dAANZ2V0U3RhY2tUcmFjZXNxAH4ADPDotbh0ABRnZXRTdGFja1RyYWNlRWxlbWVudHNxAH4ADKJvv0l0AAY8aW5pdD5zcQB+AAwDlICMdAAKZ2V0TWVzc2FnZXNxAH4ADP+H/dR0AA1zZXRTdGFja1RyYWNlc3EAfgAMFg8QRnQADWdldFN1cHByZXNzZWRzcQB+AAxK0H4TdAACPT1zcQB+AAwNsNludAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAMaDg/W3QABWNsb25lc3EAfgAMjvqLR3QADWFkZFN1cHByZXNzZWRzcQB+AAyJ2OkndAAIdG9TdHJpbmdzcQB+AAycoEBedAACIT1zcQB+AAzA25KQdAAIZ2V0Q2xhc3NzcQB+AAxCZqK6dAACbmVzcQB+AAx5Doj7dAACZXFzcQB+AAwW9BIBdAACIyNzcQB+AAysW8ptdAAIZmluYWxpemVzcQB+AAxITaEtdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdABGcnMuYW5hbHl0aWNzLmRhdGFzdHJ1Y3R1cmVzLnByb2JhYmlsaXN0aWMuaGxsLlVua25vd25SZWdpc3RlckV4Y2VwdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdwBwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgHNxAH4AdwBwc3EAfgB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
+external apis:
+0 items
+source infos:
+6 items
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Cardinality.scala -> 
+AAAAAAAAAAA=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/CardinalityMergeException.scala -> 
+AAAAAAAAAAA=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLog.scala -> 
+AAAAAAAAAAA=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/HyperLogLogMergeException.scala -> 
+AAAAAAAAAAA=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/Register.scala -> 
+AAAAAAAAAAA=
+/Users/ralsmith/Dropbox/Code/orcl/omc/scratch/scala-analytics/src/main/scala/UnknownRegisterException.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT0KKXi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yYWxzbWl0aC9Ecm9wYm94L0NvZGUvb3JjbC9vbWMvc2NyYXRjaC9zY2FsYS1hbmFseXRpY3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

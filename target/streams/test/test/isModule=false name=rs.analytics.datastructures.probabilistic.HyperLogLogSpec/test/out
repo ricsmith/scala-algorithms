@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0m[32mHyperLogLogSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAdding a single postive value to an empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- should result in a cardinality of one[0m[0m
+[0m[[0minfo[0m] [0m[32mAdding a single negative value to an empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- should result in a cardinality of one[0m[0m
+[0m[[0minfo[0m] [0m[32mAdding a duplicate value to an empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- should result in a cardinality of one[0m[0m
+[0m[[0minfo[0m] [0m[32mWhat you put into a register[0m[0m
+[0m[[0minfo[0m] [0m[32m- should you be able to get out of a register[0m[0m
+[0m[[0minfo[0m] [0m[32mWhat you update a register[0m[0m
+[0m[[0minfo[0m] [0m[32m- should you be able to get out of a register[0m[0m
+[0m[[0minfo[0m] [0m[32mA register upsert [0m[0m
+[0m[[0minfo[0m] [0m[32m- should not corrupt the register[0m[0m
+[0m[[0minfo[0m] [0m[32mThe cardinality of HLL and the canonical cardinality of a set[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate a pct error that is less than or equal to the std error of the HLL object[0m[0m
+[0m[[0minfo[0m] [0m[32mWhen merging two HHL objects we [0m[0m
+[0m[[0minfo[0m] [0m[32m- should observe roughly the combined cardinality of the two objects.[0m[0m
+[0m[[0minfo[0m] [0m[32mA small range smoke test[0m[0m
+[0m[[0minfo[0m] [0m[32m- should complete successfully.[0m[0m
+[0m[[0minfo[0m] [0m[32mA normal range smoke test[0m[0m
+[0m[[0minfo[0m] [0m[32m- should complete successfully.[0m[0m
